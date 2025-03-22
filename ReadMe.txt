@@ -4,6 +4,3 @@ Software Carpentry Notes
 
 Navigate files using SHELL
 Learning Git and GitHub
-
-Add two more lines 
-Try to commit
